@@ -1,13 +1,14 @@
-# password-generator-using-React
+# Password generator using React and Vite
+
+Develop this project [step by step at OpenGenus](https://iq.opengenus.org/password-generator-using-react/)
 
 Password generator using React and Vite
 
-
 How to run this project:
 
-  npm run dev
-
-
+```
+npm run dev
+```
 
 [Resources]
 
